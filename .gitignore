@@ -1,0 +1,57 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output folders
+bin/
+build/
+
+# Go related
+*.out
+vendor/
+
+# Dependency directories
+Gopkg.lock
+Gopkg.toml
+
+# Local env files
+.env
+
+# Logs
+*.log
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# Docker artifacts
+docker-compose.override.yml
+
+# Python cache (for model-api)
+__pycache__/
+*.pyc
+*.pyo
+
+# Coverage files
+coverage.out
+
+# AWS/GCP credentials (NEVER push)
+.aws/
+.gcp/
+
+# Node_modules (in case you add frontend later)
+node_modules/
+
+# GitHub Actions artifacts (optional)
+*.artifact.zip
+
+# System files
+.DS_Store
+Thumbs.db

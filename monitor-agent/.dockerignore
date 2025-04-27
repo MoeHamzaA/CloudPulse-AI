@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# IDE
+.idea
+.vscode
+
+# Build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# AWS credentials
+.aws/
+credentials 

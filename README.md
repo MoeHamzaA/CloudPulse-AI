@@ -145,6 +145,6 @@ Unit tests are provided to validate core functionality like drift detection and 
 
 ## ✨ Credits
 
-Built with ❤️ by Hamza Ajmal
+Built by Hamza Ajmal
 
 ---
